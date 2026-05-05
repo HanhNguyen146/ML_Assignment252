@@ -20,5 +20,14 @@ Toàn bộ các file sinh ra trong quá trình chạy sẽ được lưu trữ t
 * **File dữ liệu:** `heart_train_cleaned.csv` và `heart_test_cleaned.csv` (dùng cho các mô hình ở phần sau).
 * **File model:** `preprocessor.pkl`, `selector.pkl`, `decision_tree_model.pkl`, `logistic_regression_model.pkl`, `random_forest_model.pkl`
 Vui lòng nhấp vào biểu tượng thư mục ở thanh bên trái của Colab để xem và tải xuống các file này nếu cần.
-`link data để train và test`:https://drive.google.com/drive/folders/1a1qutKATEA0QA9JL4nl3I6FKT2c6rCHu?usp=sharing.
-`link model`: https://drive.google.com/drive/folders/13vTMzHz9GiWDrPrGTrKQ6IcqnPf65KYy?usp=sharing.
+`link data để train và test`: https://drive.google.com/drive/folders/1a1qutKATEA0QA9JL4nl3I6FKT2c6rCHu?usp=sharing
+`link model`: https://drive.google.com/drive/folders/13vTMzHz9GiWDrPrGTrKQ6IcqnPf65KYy?usp=sharing
+
+## 4. Phân công công việc
+
+| Họ và Tên | MSSV | Nhiệm vụ |
+|-----------|------|---------|
+| Nguyễn Minh Hạnh | 2310895 | Decision Tree |
+| Trần Minh Trí | 2313627 | Tiền xử lý & EDA |
+| Huyền Câm Ly | 2312008 | Random Forest |
+| Phạm Thanh Tín | 2313459 | Logistic Regression |
